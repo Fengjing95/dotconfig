@@ -2,7 +2,7 @@ local wezterm = require("wezterm")
 
 local config = {
 	font_size = 14,
-	font = wezterm.font("Hack Nerd Font Propo", { weight = "Regular" }),
+	font = wezterm.font("Maple Mono NF CN", { weight = "Regular" }),
 	color_scheme = "catppuccin-macchiato",
 
 	use_fancy_tab_bar = false,
